@@ -1,10 +1,11 @@
-
+import Main from './components/Main/main';
 import './App.css';
+
 
 function App() {
   return (
     <div className="App">
-      WEEKEND 9 - MATCH FINDING
+      <Main />
     </div>
   );
 }
