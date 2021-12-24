@@ -1,0 +1,14 @@
+.flex-row {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.main-wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+}

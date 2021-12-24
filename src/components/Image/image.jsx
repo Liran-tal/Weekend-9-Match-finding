@@ -1,4 +1,4 @@
-// import './Image.css';
+import './image.css';
 
 
 function Image(props) {
